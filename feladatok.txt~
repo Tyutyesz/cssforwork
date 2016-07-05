@@ -1,0 +1,22 @@
+Feladat leírása
+
+A HTML kód módosítása nélkül, a kapott psd alapján kell elkészíteni a szükséges
+CSS szabályokat.
+
+A CSS szabályokat a webtown_elemei/custom.css fájlba kell megírni.
+
+Amennyiben a HTML kód módosítása elkerülhetetlen, akkor azt külön indokolni
+szükséges.
+
+Elvárás, hogy a CSS szabályokat tartalmazó fájl jól struktúrált, könnyen
+átlátható és olvasható legyen. Későbbi bővítése, kiegészítése egyszerű
+elvégezhető legyen.
+
+A HTML kódban található azonosítók egy része automatikusan generált (tipikusan
+a yui_patched_ kezdetűek), ezekre a hivatkozás kerülendő.
+
+A HTML kódból a javascript-ek törlésre kerültek, az oldal elkészítéséhez ezekre
+nincs szükség.
+
+Opcionális feladat a reszponzív megoldás készítése (a HTML kód erre fel van
+készítve).
